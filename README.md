@@ -1,5 +1,10 @@
-# Ray Optics Simulation
-Simulate reflection and refraction of light.
+# i'm bored
+
+
+
+I'm so fucking bored so i'm gonna fork this
+
+
 
 ## Features
 - Simulate various light sources: ray, beam, and point source
@@ -11,7 +16,7 @@ Simulate reflection and refraction of light.
 - View images that can be observed from some given position
 - Distance and angular measurement
 
-## Links
+## Original Project
 - [Project Page](https://ricktu288.github.io/ray-optics/)
 - [Chrome App](https://chrome.google.com/webstore/detail/ray-optics-simulation/egamlemiidmmmcccadndbjjihkcfiobh)
 - [Documentation](http://chengscott.tw/ray-optics/)
